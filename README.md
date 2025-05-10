@@ -37,10 +37,7 @@ Ce projet déploie une infrastructure Cloud AWS permettant de :
 
 1. Va dans **AWS Console > CloudFormation > Create Stack**
 2. Téléverse `template.yaml`
-3. Renseigne les paramètres :
-   - `EnvName` : Nom de l’environnement (ex : `dev`)
-   - `VpcId`, `SubnetId`, etc. si demandés
-4. Lance le déploiement
+3. Lance le déploiement
 
 ---
 

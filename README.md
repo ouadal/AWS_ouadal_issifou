@@ -72,5 +72,6 @@ Ce projet déploie une infrastructure Cloud AWS permettant de :
    ```bash
    aws dynamodb get-item --table-name FileMetadata-dev \
    --key '{"FileName": {"S": "image.jpg"}}' --region eu-west-1
+   laisse un petit like après avoir forker
    ```
 
